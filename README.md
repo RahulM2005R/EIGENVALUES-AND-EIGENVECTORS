@@ -1,5 +1,5 @@
-# EIGENVALUES-AND-EIGENVECTORS
-## DATE: 06/04/2024
+# EX-4: EIGENVALUES-AND-EIGENVECTORS
+## DATE: 23.03.2024
 ## Aim:
 To write a python program to find the Eigenvalues and Eigen Vectors
 ## Equipment’s required:
@@ -17,6 +17,8 @@ End the program
 
 ## Program:
 ```
+#Developed by: Rahul M R
+#Register Number: 2305003005
 import numpy as np
 A=np.array([[2,2],[1,3]])
 E,EV=np.linalg.eig(A)
